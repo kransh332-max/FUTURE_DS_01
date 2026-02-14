@@ -1,16 +1,16 @@
-# 📊 Business Sales Performance Analysis  
+#  Business Sales Performance Analysis  
 ### Data Science & Analytics Internship – Future Interns  
 **Author:** Kumar Ansh Prasad  
 
 ---
 
-## 📌 Project Objective
+##  Project Objective
 The objective of this project is to analyze business sales data to identify revenue trends, top-performing products, category performance, and regional profitability.  
 The goal is to generate actionable business insights and strategic recommendations to improve profitability and growth.
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 - Python  
 - Pandas  
 - NumPy  
@@ -20,7 +20,7 @@ The goal is to generate actionable business insights and strategic recommendatio
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 
 - **Total Revenue:** $2,297,200.86  
 - **Total Profit:** $28,637.02  
@@ -29,7 +29,7 @@ The goal is to generate actionable business insights and strategic recommendatio
 
 ---
 
-## 📊 Analysis Performed
+##  Analysis Performed
 
 - Monthly Revenue Trend Analysis  
 - Top 10 Products by Revenue & Profit  
